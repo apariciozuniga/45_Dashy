@@ -1,0 +1,39 @@
+/*Inserta tu Codigo Responsive*/
+/* Small devices (landscape phones, 544px and up)*/
+@media (min-width: 544px) { 
+	.login{
+		width: 50%;
+		height: 50%;
+	}
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
+
+@media (min-width: 480px) {
+	.login{
+		width: 100%;
+		height: 50%;
+
+	}
+
+ }
+ 
+
+/* Small devices (landscape phones, 544px and up)*/
+@media (min-width: 544px) { 
+	div .fa{
+		align-items: center;
+	}
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { ... }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
+
